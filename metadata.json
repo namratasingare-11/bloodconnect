@@ -1,0 +1,6 @@
+{
+  "name": "BloodConnect",
+  "description": "National Blood Bank & Voluntary Donor Network - Verified 24/7 real-time inventory, cold-chain hospital dispatch, and voluntary donor registry.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
